@@ -6,11 +6,6 @@
 	margin-right: auto;
 	width: 50%;}
 
-/*
-	Helios by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2182,7 +2177,6 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		/* background-image: url("../../images/header.jpg"); */
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2194,7 +2188,6 @@ input, select, textarea {
 
 	#AboutHeader {
 		position: relative;
-		/* background-image: url("../../images/About_header.jpg"); */
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2564,7 +2557,7 @@ input, select, textarea {
 				position: absolute;
 				top: 50%;
 				margin: -1.5em 0 0 0;
-				background: url("images/arrow.svg") no-repeat center center;
+				background: url("arrow.svg") no-repeat center center;
 			}
 
 			.carousel .forward:hover:before, .carousel .backward:hover:before {
