@@ -1538,7 +1538,7 @@ input, select, textarea {
 					align-items: flex-end;
 				}
 
-				.row > .imp-mobile {
+				/* .row > .imp-mobile {
 					order: -1;
 				}
 
@@ -1636,7 +1636,7 @@ input, select, textarea {
 
 				.row > .off-12-mobile {
 					margin-left: 100%;
-				}
+				} */
 
 				.row.gtr-0 {
 					margin-top: 0px;
