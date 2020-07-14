@@ -1,1 +1,3 @@
-This is the website for History for Thinkers by Michael Macaulay.
+History for Thinkers by Michael Macaulay.
+
+Check it out at Historyforthinkers.org
