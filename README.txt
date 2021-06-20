@@ -1,4 +1,4 @@
 History for Thinkers by Michael Macaulay.
 
 
-![](image3.gif)
+<img src="image3.gif">
